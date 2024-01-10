@@ -1,0 +1,5 @@
+Contoh: Penggunaan NPM dan Background ReactJS
+
+npm init
+npm install react react-dom
+npx create-react-app my-react-app

@@ -1,0 +1,4 @@
+Contoh: React Development Environment dan Setup Tailwind
+
+npm install tailwindcss
+npx tailwindcss init
